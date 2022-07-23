@@ -1,4 +1,4 @@
-# FearTheZombies
+# Fear The Zombies
 
 Fear The zombies - game with procedural world generation on Android platform, where you should kill waves of scary monsters. You can find different types of weapons, use time freezers and throw grenades which attract zombies.
 
