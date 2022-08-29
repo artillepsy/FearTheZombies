@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e6f0f42-dd2d-4b10-9b37-f77c36952f81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/TimeFreezerItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/TimeFreezerItem.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Course Project 3.2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Course Project 3.2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Course Project 3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Course Project 3.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy/BigZombie.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy/BigZombie.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy/CrawlZombie.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy/CrawlZombie.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy/ZombieInfo.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy/ZombieInfo.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Items/Grenade.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Items/Grenade.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Items/GrenadeItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Items/GrenadeItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/TimeFreezer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/TimeFreezer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TimeManagement/TimeManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TimeManagement/TimeManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1332C534-A8A4-4623-B2E5-CC943A0B790E/32/c5ab4186/SpotLight.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1332C534-A8A4-4623-B2E5-CC943A0B790E/9b/caffbcd5/Camera.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/ItemSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/ItemPicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/WaveLabel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Management/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/CrossRaycast.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/CameraShake.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PlayerDamaged.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/CameraUpdateListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyMovement.cs" />
+        <option value="$PROJECT_DIR$/Packages/com.unity.render-pipelines.universal/ShaderLibrary/RealtimeLights.hlsl" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Materials/CustomRealtimeLights.hlsl" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Materials/CustomLit.shader" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs/Materials/Shaders/CustomLightning.hlsl" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/InfoCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/DamageText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIInvisibility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIVisibility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerShooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/VisibilityChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/Grenade.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/DeadCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/CanvasesInputs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/DeathCanvasInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chunks/Obstacle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/CameraShake.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/EnemyNameRandomizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/TimeManagement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Experience/SaveSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Experience/ExperienceCalculator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/GrenadeThrower.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TimeManagement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PauseCanvasInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerTimeFreezer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Experience/UserData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Craft/CraftCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Hud.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Input.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenuCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/DeathCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/GrenadeItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/TimeFreezerItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/TimeFreezer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TimeManagement/TimeManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24SjI2eJECVeAHujnZBsgF4Ox3c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="lightAtten" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Build/Course Project 3.2.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Dell\Desktop\Unity\projects\Build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e6f0f42-dd2d-4b10-9b37-f77c36952f81" name="Default Changelist" comment="" />
+      <created>1643630805473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643630805473</updated>
+      <workItem from="1643630813754" duration="13878000" />
+      <workItem from="1643711719112" duration="2969000" />
+      <workItem from="1643726585145" duration="107000" />
+      <workItem from="1643727662396" duration="6645000" />
+      <workItem from="1643750336265" duration="2320000" />
+      <workItem from="1643789073105" duration="1997000" />
+      <workItem from="1643825986691" duration="6079000" />
+      <workItem from="1643835011268" duration="5553000" />
+      <workItem from="1643874118289" duration="15502000" />
+      <workItem from="1643920837497" duration="721000" />
+      <workItem from="1643974207297" duration="2346000" />
+      <workItem from="1643992305963" duration="847000" />
+      <workItem from="1644049257530" duration="17090000" />
+      <workItem from="1644164840973" duration="2980000" />
+      <workItem from="1644178558966" duration="746000" />
+      <workItem from="1644179817589" duration="4544000" />
+      <workItem from="1644187282888" duration="4189000" />
+      <workItem from="1644192299394" duration="19861000" />
+      <workItem from="1644315833843" duration="33495000" />
+      <workItem from="1644433203953" duration="414000" />
+      <workItem from="1644570029598" duration="7740000" />
+      <workItem from="1644587620485" duration="6532000" />
+      <workItem from="1644598802729" duration="8320000" />
+      <workItem from="1644655514879" duration="2632000" />
+      <workItem from="1644659515712" duration="6134000" />
+      <workItem from="1644700092149" duration="3727000" />
+      <workItem from="1645525815188" duration="1631000" />
+      <workItem from="1645549335466" duration="5394000" />
+      <workItem from="1645606379455" duration="4906000" />
+      <workItem from="1645868345000" duration="12515000" />
+      <workItem from="1645950228574" duration="1965000" />
+      <workItem from="1645985979810" duration="2642000" />
+      <workItem from="1646084659722" duration="644000" />
+      <workItem from="1646125299214" duration="17025000" />
+      <workItem from="1646387104334" duration="1271000" />
+      <workItem from="1646424454359" duration="2617000" />
+      <workItem from="1646499394627" duration="445000" />
+      <workItem from="1646505935844" duration="4496000" />
+      <workItem from="1646572441249" duration="207000" />
+      <workItem from="1646853463631" duration="2684000" />
+      <workItem from="1646901442521" duration="4882000" />
+      <workItem from="1646916106222" duration="1564000" />
+      <workItem from="1650006701025" duration="7211000" />
+      <workItem from="1650032639448" duration="3567000" />
+      <workItem from="1650051875044" duration="4215000" />
+      <workItem from="1650104277536" duration="1541000" />
+      <workItem from="1650106596405" duration="2259000" />
+      <workItem from="1650109116093" duration="207000" />
+      <workItem from="1650110354257" duration="131000" />
+      <workItem from="1650116564710" duration="2682000" />
+      <workItem from="1650127319470" duration="1848000" />
+      <workItem from="1650354647912" duration="2413000" />
+      <workItem from="1650378155628" duration="187000" />
+      <workItem from="1650378487281" duration="389000" />
+      <workItem from="1650400150113" duration="526000" />
+      <workItem from="1650442155367" duration="2040000" />
+      <workItem from="1650462325344" duration="1278000" />
+      <workItem from="1650478164704" duration="1061000" />
+      <workItem from="1650537864064" duration="3354000" />
+      <workItem from="1650564259100" duration="621000" />
+      <workItem from="1650569972201" duration="8571000" />
+      <workItem from="1650619399402" duration="5833000" />
+      <workItem from="1650631963181" duration="1904000" />
+      <workItem from="1650705576291" duration="1373000" />
+      <workItem from="1650710702615" duration="2935000" />
+      <workItem from="1650716311284" duration="2631000" />
+      <workItem from="1650734589139" duration="1751000" />
+      <workItem from="1650745983964" duration="3094000" />
+      <workItem from="1650811110122" duration="12855000" />
+      <workItem from="1650834522493" duration="4119000" />
+      <workItem from="1650904859769" duration="12880000" />
+      <workItem from="1650958871954" duration="2147000" />
+      <workItem from="1651309247791" duration="3590000" />
+      <workItem from="1651314411690" duration="11981000" />
+      <workItem from="1652547799910" duration="1435000" />
+      <workItem from="1652602018361" duration="857000" />
+      <workItem from="1652628735222" duration="8711000" />
+      <workItem from="1652693766252" duration="5237000" />
+      <workItem from="1652724402588" duration="598000" />
+      <workItem from="1652814673616" duration="1906000" />
+      <workItem from="1652877029311" duration="2480000" />
+      <workItem from="1652981062316" duration="1844000" />
+      <workItem from="1653029785913" duration="9442000" />
+      <workItem from="1653076009193" duration="9229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="601" y="134" key="RiderGenerateDialog" timestamp="1650716168354">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="601" y="134" key="RiderGenerateDialog/0.0.1536.834@0.0.1536.834" timestamp="1650716168354" />
+    <state width="927" height="446" key="SwitcherDM" timestamp="1651353608807">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="927" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1651353608807" />
+    <state x="93" y="93" width="1350" height="648" key="VCS.FileHistoryDialog" timestamp="1650907284284">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="VCS.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1650907284284" />
+    <state x="319" y="-28" width="802" height="834" key="find.popup" timestamp="1651310105717">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="319" y="-28" width="802" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1651310105717" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1650103174575">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1650103174575" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1653037505241">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1653037505241" />
+  </component>
+</project>
