@@ -1,0 +1,34 @@
+﻿@startuml
+namespace Chunks {
+    class ChunkPlacer {
+        - prefabInfoList: List<ObstaclePrefabInfo>
+        - _spawnedChunks: Dictionary<Vector3, GameObject>
+        + ScanAreaInGrid(Vector3)
+        + SpawnChunk(Vector3)
+    }
+
+ChunkPlacer --> NoiseUtils
+
+class NoiseUtils {
+- Dictionary<Vector3, CachedPointInfo> _cachedPoints
+- List<CachedPointInfo> _inDimensionPointsList
++ AddPointToNode(position: Vector3, prefabInfoList: List<ObstaclePrefabInfo>)
++ GetNearestNoisePointId(position: Vector3): int
+}
+
+class CachedPointInfo {
+- readonly int Id
+- readonly Vector3 Position
++ CachedPointInfo(id: int, position: Vector3)
+}
+
+NoiseUtils --> CachedPointInfo
+
+
+   class ObstaclePlacer {
+        - prefabInfoList: List<ObstaclePrefabInfo>
+        + TrySpawnObstacle() : bool
+        + FindFreeSpaceCoroutine() : IEnumerator
+    }
+}
+@enduml

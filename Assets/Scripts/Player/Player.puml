@@ -1,0 +1,53 @@
+﻿@startuml
+namespace Player {
+class GrenadeThrower {
+  -int _count
+  -bool _grenadePrepared
+  -Transform hand
+  -GameObject grenadePrefab
+  -float grenadeReload
+  +readonly UnityEvent<int> OnGrenadeCountChange
+  +void AddGrenade(int countToAdd)
+  +bool SpawnGrenade()
+  -void PrepareGrenade()
+}
+
+class ItemPicker {
+
+  +static readonly UnityEvent OnPickupItem
+  +void OnTriggerEnter(Collider other)
+}
+
+class PlayerAnimationController {
+  -Animator _animator
+  -Rigidbody _rb
+  +void Update()
+}
+
+class PlayerHealth {
+
+  +float health
+  +readonly UnityEvent<float, float> OnHealthChanged
+  +static readonly UnityEvent OnDamaged
+  +static readonly UnityEvent OnDied
+  +void ChangeHealth(float amount, bool isDamage = true)
+}
+
+class PlayerMovement {
+  -Rigidbody _rb
+  +float speed
+  +void UpdateDirection(Vector3 direction)
+}
+
+class PlayerShooting {
+
+  -Weapon _weapon
+
+  +void ChangeWeapon(Weapon newPrefab)
+  +void Reload()
+  +void SetShootingStatus(bool status)
+  +void UpdateDirection(Vector3 direction)
+}
+}
+
+@enduml

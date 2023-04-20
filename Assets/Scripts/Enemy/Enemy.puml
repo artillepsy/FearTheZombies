@@ -1,0 +1,61 @@
+﻿@startuml
+
+namespace Enemy {
+
+class EnemyAnimationController {
+    - Animator _animator
+    + OnStateChange(State newEnemyState)
+    + OnKickEvent()
+}
+
+class EnemyAttack {
+    - float damage
+
+    - UnityEvent OnKick
+    + OnStateChange(State newEnemyState)
+    + Update()
+    + ReadyToAttack(): bool
+    + Attack()
+}
+
+class EnemyBehaviour {
+
+    + OnEnemyTooFar
+    + Update()
+    + CheckDistanceToDestroy()
+    + CheckDistanceToPlayer()
+    + ChangeState(newState: State)
+}
+
+class EnemyHealth {
+    - float _health
+
+    + OnEnemyDie
+    + OnDie
+    + OnTakeDmg
+    + TakeDamage(damage: float, direction: Vector3)
+
+}
+
+class EnemyMovement {
+    - float Speed
+
+    + OnStateChange(State newEnemyState)
+    + Update()
+    + RevertSpeed()
+    + UpdateTarget()
+    + ReadyToUpdate(): bool
+    + UpdatePath()
+    + RotateToTarget()
+}
+
+enum State {
+    MovingToTarget,
+    AttackingTarget,
+    Dying
+}
+
+
+ }
+ 
+@enduml
